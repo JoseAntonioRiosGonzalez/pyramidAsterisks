@@ -7,7 +7,7 @@
 </div>
 
 
-## Tabla de contenido
+## Table of Contents
 
 - [Review](#review).
 - [Screenshots](#screenshots).
